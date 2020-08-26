@@ -1,24 +1,24 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://zcorpuz.github.io/portfolioZachCorpuz/",
     "name": "Zach Corpuz",
     "role": "Full Stack Engineer",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "linkedinId":"https://github.com/zcorpuz",
+    "skypeid": "https://twitter.com/zcorpuzOSP",
+    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, cook up some great recipes or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/zachcorpuz/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/zcorpuz",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/zcorpuzOSP",
           "className":"fa fa-twitter"
         }
       ],
