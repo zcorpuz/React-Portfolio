@@ -67,10 +67,10 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"CSS"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Javascript"
       },
       {
         "skillname":"Reactjs"
@@ -78,36 +78,26 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Soma Kitchen",
+        "description":"Website",
+        "imgurl":"../public/images/portfolio/coffee.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
+        "name":"Law Offices of T. Behlendorf",
+        "description":"Website",
         "imgurl":"images/portfolio/project.jpg"
       },
       {
-        "name":"project3",
+        "name":"Weather Application",
         "description":"mobileapp",  
         "imgurl":"images/portfolio/project2.png"
       },
       {
-        "name":"project4",
+        "name":"Workout Tracker",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
   }
   
   export default resumeData
