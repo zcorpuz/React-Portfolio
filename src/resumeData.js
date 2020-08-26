@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://zcorpuz.github.io/portfolioZachCorpuz/",
     "name": "Zach Corpuz",
     "role": "Full Stack Engineer",
-    "linkedinId":"https://github.com/zcorpuz",
+    "linkedinId":"https://www.linkedin.com/in/zachcorpuz/",
     "skypeid": "https://twitter.com/zcorpuzOSP",
     "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, cook up some great recipes or simply play games in my free time.",
     "socialLinks":[
@@ -43,18 +43,25 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Freelance",
+        "specialization":"Full-Stack Engineer",
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":"Created a website for a local Law Firm in LA that helped increase online presence as well as helped them efficiently communicate with clients. The website inluded a couple of Web APIs to boost UX. Also created a wesbite for a local catering company in LA. This website allowed the owners to handle their business online rather than with paper and pen. We implemented several APIs that allowed them to take payments on their website, handle their own database of customers, as well as handle their own reservations."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"LoopUp",
+        "specialization":"Business Development Representative - Sales",
+        "MonthOfLeaving":"Feb",
+        "YearOfLeaving":"2020",
+        "Achievements":"I was able to build relationships and assisted in sales meetings with C-Class Officers and Directors of different companies. I maintained high-level communication with team to ensure proficiency and a high success rate of our team goals."
+      },
+      {
+        "CompanyName":"JOEY Restaurant Group",
+        "specialization":"Restaurant Manager",
+        "MonthOfLeaving":"Nov",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"I was responsible for a team of 100 people and their development through training, coaching, and auditing. I decreased costs significantly by narrowing down waste of product throughout the restaurant and implemented sysgtems that helped lower Cost of Goods for the restaurant. I was also cross-trained in every sgtore role to maximize operational knowledge."
       }
     ],
     "skillsDescription":"Your skills here",
