@@ -22,23 +22,23 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently in my last month at the UCLA Extension Full Stack Engineering Course. I just recently moved back to Seattle where I am looking for either a Full-Stack or Front End position.",
+    "address":"Seattle, WA",
+    "website":"https://zcorpuz.github.io/portfolioZachCorpuz/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"UCLA Extension",
+        "specialization":"Full Stack Engineering",
+        "MonthOfPassing":"Sept",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Will be Receiving certificate in Full Stack Engineering"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Washington",
+        "specialization":"Media and Communications",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2016",
+        "Achievements":"Bachelor of Arts"
       }
     ],
     "work":[
